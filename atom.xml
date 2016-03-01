@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[鸟儿问答]]></title>
+  <subtitle><![CDATA[周旅军的个人博客]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://zhoulvjun.github.io/"/>
+  <updated>2016-03-01T12:29:02.923Z</updated>
+  <id>http://zhoulvjun.github.io/</id>
+  
+  <author>
+    <name><![CDATA[周旅军]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[台湾的家庭暴力数据(警务统计)]]></title>
+    <link href="http://zhoulvjun.github.io/2016/02/29/taiwan-family-violence/"/>
+    <id>http://zhoulvjun.github.io/2016/02/29/taiwan-family-violence/</id>
+    <published>2016-02-29T14:30:44.000Z</published>
+    <updated>2016-03-01T12:29:02.923Z</updated>
+    <content type="html"><![CDATA[<h1 id="问台湾与家庭暴力相关的统计数据">问：台湾与家庭暴力相关的统计数据？</h1> <h1 id="答台湾内政部警政署全球资讯网">答：<a href="http://www.npa.gov.tw/" target="_blank" rel="external">台湾内政部警政署全球资讯网</a></h1> <p>台湾的《家庭暴力防治法》于1998年5月28日通过，据统计，家庭暴力通报案件及受害人数逐年增加，已由2008年的84,195案，增加至2013年的152,680案。</p> <style type="text/css">article .article-content table td{font-size:14px}article .article-content table th{text-align:center}</style><p>注意：中国大陆境内无法访问“原站链接”，请换用“镜像”。</p> <table> <thead> <tr class="header"> <th align="center">项目名称</th> <th align="center">下载地址</th> <th align="center">备注</th> </tr> </thead> <tbody> <tr class="odd"> <td align="center">警察机关处理家庭暴力案件统计表</td> <td align="center"><a href="http://www.npa.gov.tw/NPAGip/wSite/public/Attachment/f1455868610167.xls" target="_blank" rel="external">原站链接</a> <a href="/data/gender/taiwan/f1455868610167.xls">镜像</a></td> <td align="center">按月份统计，2013年至2016年1月</td> </tr> <tr class="even"> <td align="center">警察机关处理家庭暴力案件统计表</td> <td align="center"><a href="http://www.npa.gov.tw/NPAGip/wSite/public/Attachment/f1452823202766.xls" target="_blank" rel="external">原站链接</a> <a href="/data/gender/taiwan/f1452823202766.xls">镜像</a></td> <td align="center">按县市统计，2002年至2015年</td> </tr> <tr class="odd"> <td align="center">警察机关移送家庭暴力案件数</td> <td align="center"><a href="http://www.npa.gov.tw/NPAGip/wSite/public/Attachment/f1454029735960.xls" target="_blank" rel="external">原站链接</a> <a href="/data/gender/taiwan/f1454029735960.xls">镜像</a></td> <td align="center">依案类别统计，2010年至2015年</td> </tr> <tr class="even"> <td align="center">违反家庭暴力罪嫌疑犯性别统计</td> <td align="center"><a href="http://www.npa.gov.tw/NPAGip/wSite/public/Attachment/f1452496975412.xls" target="_blank" rel="external">原站链接</a> <a href="/data/gender/taiwan/f1452496975412.xls">镜像</a></td> <td align="center">分年龄组、县市统计，2002年至2014年</td> </tr> <tr class="odd"> <td align="center">违反保护令罪嫌疑犯性别统计</td> <td align="center"><a href="http://www.npa.gov.tw/NPAGip/wSite/public/Attachment/f1452497014740.xls" target="_blank" rel="external">原站链接</a> <a href="/data/gender/taiwan/f1452497014740.xls">镜像</a></td> <td align="center">分年龄组、县市统计，2002年至2014年</td> </tr> <tr class="even"> <td align="center">家防官、妇幼专责小队及妇幼警察队人数</td> <td align="center"><a href="http://www.npa.gov.tw/NPAGip/wSite/public/Attachment/f1454462165127.xls" target="_blank" rel="external">原站链接</a> <a href="/data/gender/taiwan/f1454462165127.xls">镜像</a></td> <td align="center">分年龄组、县市统计，2014年1月31日和11月30日</td> </tr> </tbody> </table>]]></content>
+    <summary type="html">
+    <![CDATA[台湾与家庭暴力相关的统计数据？]]>
+    
+    </summary>
+    
+      <category term="性别" scheme="http://zhoulvjun.github.io/tags/%E6%80%A7%E5%88%AB/"/>
+    
+      <category term="统计" scheme="http://zhoulvjun.github.io/tags/%E7%BB%9F%E8%AE%A1/"/>
+    
+      <category term="数据" scheme="http://zhoulvjun.github.io/categories/%E6%95%B0%E6%8D%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[机器学习的算法选择(速查图)]]></title>
+    <link href="http://zhoulvjun.github.io/2016/02/27/machine-learning-map-png/"/>
+    <id>http://zhoulvjun.github.io/2016/02/27/machine-learning-map-png/</id>
+    <published>2016-02-27T00:33:20.000Z</published>
+    <updated>2016-02-28T06:48:49.095Z</updated>
+    <content type="html"><![CDATA[<h1 id="问如何选择适当的机器学习算法">问：如何选择适当的机器学习算法？</h1> <h1 id="答请参考速查图高清版">答：请参考<a href="/img/machine_learning_map.png" target="_blank">速查图(高清版)</a>。</h1> <p>改编自<a href="http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html" target="_blank" rel="external">Choosing the right estimator</a>。</p> <p>另可参考与之对应的<a href="/2016/02/27/machine-learning-map/">渐进选择决策树</a>。</p>]]></content>
+    <summary type="html">
+    <![CDATA[如何选择适当的机器学习算法？]]>
+    
+    </summary>
+    
+      <category term="图表" scheme="http://zhoulvjun.github.io/tags/%E5%9B%BE%E8%A1%A8/"/>
+    
+      <category term="机器学习" scheme="http://zhoulvjun.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="统计" scheme="http://zhoulvjun.github.io/tags/%E7%BB%9F%E8%AE%A1/"/>
+    
+      <category term="统计" scheme="http://zhoulvjun.github.io/categories/%E7%BB%9F%E8%AE%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[机器学习的算法选择]]></title>
+    <link href="http://zhoulvjun.github.io/2016/02/27/machine-learning-map/"/>
+    <id>http://zhoulvjun.github.io/2016/02/27/machine-learning-map/</id>
+    <published>2016-02-27T00:33:20.000Z</published>
+    <updated>2016-02-28T07:30:01.874Z</updated>
+    <content type="html"><![CDATA[<h1 id="问如何选择适当的机器学习算法">问：如何选择适当的机器学习算法？</h1> <h1 id="答改编自choosing-the-right-estimator">答：改编自<a href="http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html" target="_blank" rel="external">Choosing the right estimator</a>。</h1> <p>机器学习中的样本量应大于50。</p> <p>点击决策树节点下方的“+”号拓展节点，“-”号收缩节点。可在空白处用鼠标或手指拖拽画面。</p> <div style="width:91%;margin:0 auto"> <iframe src="/ml.html" scrolling="no" frameborder="0" height="630px" width="100%"> </iframe> </div>]]></content>
+    <summary type="html">
+    <![CDATA[如何选择适当的机器学习算法？]]>
+    
+    </summary>
+    
+      <category term="图表" scheme="http://zhoulvjun.github.io/tags/%E5%9B%BE%E8%A1%A8/"/>
+    
+      <category term="机器学习" scheme="http://zhoulvjun.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="统计" scheme="http://zhoulvjun.github.io/tags/%E7%BB%9F%E8%AE%A1/"/>
+    
+      <category term="统计" scheme="http://zhoulvjun.github.io/categories/%E7%BB%9F%E8%AE%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[著作引用情况的查询]]></title>
+    <link href="http://zhoulvjun.github.io/2016/02/24/scholar/"/>
+    <id>http://zhoulvjun.github.io/2016/02/24/scholar/</id>
+    <published>2016-02-24T01:06:32.000Z</published>
+    <updated>2016-02-24T05:17:00.131Z</updated>
+    <content type="html"><![CDATA[<h1 id="问怎样查询著作的引用情况">问：怎样查询著作的引用情况？</h1> <h1 id="答google-学术搜索">答：<a href="https://scholar.google.com/" target="_blank" rel="external">Google 学术搜索</a></h1> <h2 id="英文版功能界面">英文版功能界面</h2> <img src="/img/scholar0.png" width="532" height="334" title=" 英文版功能界面"> <h2 id="中文版功能界面">中文版功能界面</h2> <img src="/img/scholar1.png" width="498" height="324" title=" 中文版功能界面"> <h2 id="自杀论检索结果">《自杀论》检索结果</h2> <img src="/img/scholar2.png" width="936" height="393" title=" 《自杀论》检索结果"> <h2 id="引用自杀论的文献">引用《自杀论》的文献</h2> <img src="/img/scholar3.png" width="794" height="328" title=" 引用《自杀论》的文献">]]></content>
+    <summary type="html">
+    <![CDATA[怎样查询著作的引用情况？]]>
+    
+    </summary>
+    
+      <category term="思想" scheme="http://zhoulvjun.github.io/categories/%E6%80%9D%E6%83%B3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[glgoo学术搜索]]></title>
+    <link href="http://zhoulvjun.github.io/2016/02/24/glgoo/"/>
+    <id>http://zhoulvjun.github.io/2016/02/24/glgoo/</id>
+    <published>2016-02-24T00:45:10.000Z</published>
+    <updated>2016-02-24T00:47:56.050Z</updated>
+    <content type="html"><![CDATA[<h1 id="问在大陆无法访问google学术搜索怎么办">问：在大陆无法访问google学术搜索怎么办？</h1> <h1 id="答glgoo学术搜索">答：<a href="https://xueshu.glgoo.com/" target="_blank" rel="external">glgoo学术搜索</a></h1>]]></content>
+    <summary type="html">
+    <![CDATA[在大陆无法访问google学术搜索怎么办？]]>
+    
+    </summary>
+    
+      <category term="思想" scheme="http://zhoulvjun.github.io/categories/%E6%80%9D%E6%83%B3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[停车提示]]></title>
+    <link href="http://zhoulvjun.github.io/2016/02/19/stop/"/>
+    <id>http://zhoulvjun.github.io/2016/02/19/stop/</id>
+    <published>2016-02-19T06:13:32.000Z</published>
+    <updated>2016-02-24T06:52:28.635Z</updated>
+    <content type="html"><![CDATA[<h1 id="问怎样有意思地提示他人注意停车">问：怎样有意思地提示他人注意停车？</h1> <h1 id="答">答：</h1> <img src="/img/stop.jpg" width="512" height="384" title=" 有意思的停车提示">]]></content>
+    <summary type="html">
+    <![CDATA[怎样有意思地提示他人注意停车？]]>
+    
+    </summary>
+    
+      <category term="思想" scheme="http://zhoulvjun.github.io/categories/%E6%80%9D%E6%83%B3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Infogr.am的动态图表]]></title>
+    <link href="http://zhoulvjun.github.io/2016/02/18/gdp/"/>
+    <id>http://zhoulvjun.github.io/2016/02/18/gdp/</id>
+    <published>2016-02-18T09:22:09.000Z</published>
+    <updated>2016-02-29T14:28:03.397Z</updated>
+    <content type="html"><![CDATA[<h1 id="问hexo驱动的博客能展示infogr.am的动态图表吗">问：hexo驱动的博客能展示Infogr.am的动态图表吗？</h1> <h1 id="答">答：</h1> <div style="width:91%;margin:0 auto"> <iframe src="/gdp.html" scrolling="no" frameborder="0" height="390px" width="100%"> </iframe> </div>]]></content>
+    <summary type="html">
+    <![CDATA[hexo驱动的博客能展示Infogr.am的动态图表吗？]]>
+    
+    </summary>
+    
+      <category term="图表" scheme="http://zhoulvjun.github.io/tags/%E5%9B%BE%E8%A1%A8/"/>
+    
+      <category term="统计" scheme="http://zhoulvjun.github.io/tags/%E7%BB%9F%E8%AE%A1/"/>
+    
+      <category term="hexo" scheme="http://zhoulvjun.github.io/categories/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[China and US CO2 emissions]]></title>
+    <link href="http://zhoulvjun.github.io/2016/02/17/co2/"/>
+    <id>http://zhoulvjun.github.io/2016/02/17/co2/</id>
+    <published>2016-02-17T03:45:36.000Z</published>
+    <updated>2016-02-20T07:17:02.546Z</updated>
+    <content type="html"><![CDATA[<h1 id="问china-and-us-co2-emissions">问：China and US CO<sub>2</sub> emissions?</h1> <h1 id="答">答：</h1> <div style="width:91%;margin:0 auto"> <p><iframe width="100%" height="500px" src="/co2.html" frameborder="0"></iframe></p> </div> <p><br></p>]]></content>
+    <summary type="html">
+    <![CDATA[China and US CO<sub>2</sub> emissions?]]>
+    
+    </summary>
+    
+      <category term="图表" scheme="http://zhoulvjun.github.io/tags/%E5%9B%BE%E8%A1%A8/"/>
+    
+      <category term="统计" scheme="http://zhoulvjun.github.io/tags/%E7%BB%9F%E8%AE%A1/"/>
+    
+      <category term="数据" scheme="http://zhoulvjun.github.io/categories/%E6%95%B0%E6%8D%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[拖放操控的数据透视表]]></title>
+    <link href="http://zhoulvjun.github.io/2016/02/08/pivottable/"/>
+    <id>http://zhoulvjun.github.io/2016/02/08/pivottable/</id>
+    <published>2016-02-08T09:18:57.000Z</published>
+    <updated>2016-02-26T07:23:39.453Z</updated>
+    <content type="html"><![CDATA[<h1 id="问hexo驱动的博客能使用拖放操控的数据透视表吗">问：hexo驱动的博客能使用拖放操控的数据透视表吗？</h1> <h1 id="答">答：</h1> <h2 id="使用pivottable.js">使用PivotTable.js</h2> <p><a href="https://github.com/nicolaskruchten/pivottable" target="_blank" rel="external">PivotTable.js</a>的中文版由<a href="http://zhoulvjun.github.io/">周旅军</a>提供。</p> <p>示例(仅含部分功能)：</p> <style type="text/css">.node{border:solid 1px #fff;font:10px sans-serif;line-height:12px;overflow:hidden;position:absolute;text-indent:2px}.pvtSearch{background-color:#96dcec}.pvtTable .pvtTotalLabel{border-bottom-width:1px;text-align:center!important}.pvtRendererArea{border-bottom:0!important}.pvtTable{border-spacing:0!important}.pvtUi tbody tr:nth-child(1) td:nth-child(1){border-bottom:0!important}.pvtAxisContainer,.pvtVals{border:1px solid gray!important}article .article-content table{border-collapse:separate;border-spacing:2px}article .article-content table td{margin:0;padding:5px;vertical-align:top}article .article-content table th{margin:0;border-bottom-width:.1px;text-align:center}</style><script type="text/javascript">$(function(){var e=$.pivotUtilities.derivers,r=$.pivotUtilities.sortAs;$.get("/example.csv",function(t){var n=$.csv.toArrays(t);$("#output").pivotUI(n,{hiddenAttributes:["gender","age","area","edu","pressure","model","age_bin"],derivedAttributes:{"性别":function(e){switch(e.gender){case"1":return"男";case"2":return"女";default:return e.gender}},"年龄":function(e){return e.age},age_bin:e.bin("age",10),"年龄组":function(e){switch(e.age_bin){case 0:return"[0,20)";case 20:return"[20,30)";case 30:return"[30,40)";case 40:return"[40,50)";case 50:return"[50,60)";case 60:return"≥60";default:return e.age_bin}},"地区":function(e){switch(e.area){case"1":return"东部";case"2":return"中部";case"3":return"西部";default:return e.area}},"教育":function(e){return e.edu},"压力Ⅰ":function(e){switch(e.pressure){case"0":return"没什么压力";case"1":return"压力不大";case"2":return"压力较大";case"3":return"压力很大";default:return e.pressure}},"压力Ⅱ":function(e){return e.pressure}},sorters:function(e){return"压力"==e?r(["没什么压力","压力不大","压力较大","压力很大"]):void 0},rows:["地区"],cols:["性别"]},!1,"zh")})});</script><div id="output" style="overflow:auto"> 范例载入中… </div> <p><br></p> <h2 id="pivottable.js用于python和r">PivotTable.js用于Python和R</h2> <p>PivotTable.js可用于<a href="https://pypi.python.org/pypi/pivottablejs" target="_blank" rel="external">Python/Jupyter</a>和<a href="https://github.com/smartinsightsfromdata/rpivotTable" target="_blank" rel="external">R/RStudio</a>。</p>]]></content>
+    <summary type="html">
+    <![CDATA[hexo驱动的博客能使用拖放操控的数据透视表吗？]]>
+    
+    </summary>
+    
+      <category term="Python" scheme="http://zhoulvjun.github.io/tags/Python/"/>
+    
+      <category term="R" scheme="http://zhoulvjun.github.io/tags/R/"/>
+    
+      <category term="图表" scheme="http://zhoulvjun.github.io/tags/%E5%9B%BE%E8%A1%A8/"/>
+    
+      <category term="统计" scheme="http://zhoulvjun.github.io/tags/%E7%BB%9F%E8%AE%A1/"/>
+    
+      <category term="hexo" scheme="http://zhoulvjun.github.io/categories/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[hexo-tag-echarts插件]]></title>
+    <link href="http://zhoulvjun.github.io/2016/02/07/hexo-tag-echarts/"/>
+    <id>http://zhoulvjun.github.io/2016/02/07/hexo-tag-echarts/</id>
+    <published>2016-02-07T11:08:47.000Z</published>
+    <updated>2016-02-20T08:55:46.275Z</updated>
+    <content type="html"><![CDATA[<h1 id="问怎样在hexo驱动的博客中插入动态百度图表">问：怎样在hexo驱动的博客中插入动态百度图表？</h1> <h1 id="答">答：</h1> <h2 id="在博客页面中引用动态百度图表的js文件">在博客页面中引用动态百度图表的js文件</h2> <p>在所用主题目录下layout\_partial中的head.ejs里加入： <figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="xml"><span class="tag">&lt;<span class="title">script</span> <span class="attribute">src</span>=<span class="value">"http://echarts.baidu.com/dist/echarts.common.min.js"</span>&gt;</span><span class="undefined"></span></span><span class="xml"><span class="undefined"></span><span class="tag">&lt;/<span class="title">script</span>&gt;</span></span></span><br></pre></td></tr></table></figure></p> <p>注意：如何根据需要引用具体的js文件请参考<a href="http://echarts.baidu.com/download.html" target="_blank" rel="external">下载页面</a>。</p> <h2 id="安装hexo-tag-echarts插件">安装hexo-tag-echarts插件</h2> <p>该插件由<a href="http://zhoulvjun.github.io/">周旅军</a>开发，已收录于<a href="https://hexo.io/plugins/" target="_blank" rel="external">hexo官方插件页</a>。</p> <p>在博客站点目录下执行<code>npm install hexo-tag-echarts --save</code>，成功后会在子目录<code>node_modules</code>下生成<code>hexo-tag-echarts</code>目录。</p> <h2 id="使用范例">使用范例</h2> <p>对于<a href="http://echarts.baidu.com/demo.html#bar-negative" target="_blank" rel="external">动态百度图表范例</a>，将其提供的option部分复制，形成下述代码即可： <figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br></pre></td><td class="code"><pre><span class="line">&#123;% echarts 400 '81%' %&#125;</span><br><span class="line">&#123;</span><br><span class="line"><span class="code">    tooltip : &#123;</span></span><br><span class="line"><span class="code">        trigger: 'axis',</span></span><br><span class="line"><span class="code">        axisPointer : &#123;            // 坐标轴指示器，坐标轴触发有效</span></span><br><span class="line"><span class="code">            type : 'shadow'        // 默认为直线，可选为：'line' | 'shadow'</span></span><br><span class="line"><span class="code">        &#125;</span></span><br><span class="line"><span class="code">    &#125;,</span></span><br><span class="line"><span class="code">    legend: &#123;</span></span><br><span class="line"><span class="code">        data:['利润', '支出', '收入']</span></span><br><span class="line"><span class="code">    &#125;,</span></span><br><span class="line"><span class="code">    grid: &#123;</span></span><br><span class="line"><span class="code">        left: '3%',</span></span><br><span class="line"><span class="code">        right: '4%',</span></span><br><span class="line"><span class="code">        bottom: '3%',</span></span><br><span class="line"><span class="code">        containLabel: true</span></span><br><span class="line"><span class="code">    &#125;,</span></span><br><span class="line"><span class="code">    xAxis : [</span></span><br><span class="line"><span class="code">        &#123;</span></span><br><span class="line"><span class="code">            type : 'value'</span></span><br><span class="line"><span class="code">        &#125;</span></span><br><span class="line"><span class="code">    ],</span></span><br><span class="line"><span class="code">    yAxis : [</span></span><br><span class="line"><span class="code">        &#123;</span></span><br><span class="line"><span class="code">            type : 'category',</span></span><br><span class="line"><span class="code">            axisTick : &#123;show: false&#125;,</span></span><br><span class="line"><span class="code">            data : ['周一','周二','周三','周四','周五','周六','周日']</span></span><br><span class="line"><span class="code">        &#125;</span></span><br><span class="line"><span class="code">    ],</span></span><br><span class="line"><span class="code">    series : [</span></span><br><span class="line"><span class="code">        &#123;</span></span><br><span class="line"><span class="code">            name:'利润',</span></span><br><span class="line"><span class="code">            type:'bar',</span></span><br><span class="line"><span class="code">            itemStyle : &#123;</span></span><br><span class="line"><span class="code">                normal: &#123;</span></span><br><span class="line"><span class="code">                    label: &#123;show: true, position: 'inside'&#125;</span></span><br><span class="line"><span class="code">                &#125;</span></span><br><span class="line"><span class="code">            &#125;,</span></span><br><span class="line"><span class="code">            data:[200, 170, 240, 244, 200, 220, 210]</span></span><br><span class="line"><span class="code">        &#125;,</span></span><br><span class="line"><span class="code">        &#123;</span></span><br><span class="line"><span class="code">            name:'收入',</span></span><br><span class="line"><span class="code">            type:'bar',</span></span><br><span class="line"><span class="code">            stack: '总量',</span></span><br><span class="line"><span class="code">            itemStyle: &#123;</span></span><br><span class="line"><span class="code">                normal: &#123;</span></span><br><span class="line"><span class="code">                    label : &#123;show: true&#125;</span></span><br><span class="line"><span class="code">                &#125;</span></span><br><span class="line"><span class="code">            &#125;,</span></span><br><span class="line"><span class="code">            data:[320, 302, 341, 374, 390, 450, 420]</span></span><br><span class="line"><span class="code">        &#125;,</span></span><br><span class="line"><span class="code">        &#123;</span></span><br><span class="line"><span class="code">            name:'支出',</span></span><br><span class="line"><span class="code">            type:'bar',</span></span><br><span class="line"><span class="code">            stack: '总量',</span></span><br><span class="line"><span class="code">            itemStyle: &#123;normal: &#123;</span></span><br><span class="line"><span class="code">                label : &#123;show: true, position: 'left'&#125;</span></span><br><span class="line"><span class="code">            &#125;&#125;,</span></span><br><span class="line"><span class="code">            data:[-120, -132, -101, -134, -190, -230, -210]</span></span><br><span class="line"><span class="code">        &#125;</span></span><br><span class="line"><span class="code">    ]</span></span><br><span class="line">&#125;;</span><br><span class="line">&#123;% endecharts %&#125;</span><br></pre></td></tr></table></figure></p> <p>其中，参数400指定图表展示的高度为400px，81%则指定图表展示的宽度为81%，如不写明这两项参数则默认值为高度400px，宽度81%。</p> <p>实际效果请见<a href="http://zhoulvjun.github.io/2016/01/30/chart/">动态百度图表</a>。</p>]]></content>
+    <summary type="html">
+    <![CDATA[怎样在hexo驱动的博客中插入动态百度图表？]]>
+    
+    </summary>
+    
+      <category term="图表" scheme="http://zhoulvjun.github.io/tags/%E5%9B%BE%E8%A1%A8/"/>
+    
+      <category term="hexo" scheme="http://zhoulvjun.github.io/categories/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[hexo-tag-youku插件]]></title>
+    <link href="http://zhoulvjun.github.io/2016/02/07/hexo-tag-youku/"/>
+    <id>http://zhoulvjun.github.io/2016/02/07/hexo-tag-youku/</id>
+    <published>2016-02-07T03:19:47.000Z</published>
+    <updated>2016-02-20T08:55:56.727Z</updated>
+    <content type="html"><![CDATA[<h1 id="问怎样在hexo驱动的博客中插入优酷视频">问：怎样在hexo驱动的博客中插入优酷视频？</h1> <h1 id="答">答：</h1> <h2 id="安装hexo-tag-youku插件">安装hexo-tag-youku插件</h2> <p>该插件由<a href="http://zhoulvjun.github.io/">周旅军</a>开发，已收录于<a href="https://hexo.io/plugins/" target="_blank" rel="external">hexo官方插件页</a>。</p> <p>在博客站点目录下执行<code>npm install hexo-tag-youku --save</code>，成功后会在子目录<code>node_modules</code>下生成<code>hexo-tag-youku</code>目录。</p> <h2 id="使用范例">使用范例</h2> <p>如要插入优酷视频“同理心”，查看它的链接为<code>http://v.youku.com/v_show/id_XMTQ2MjU2NTU2OA==.html</code>，那么就将其中的id提取出来，使用下述代码即可： <figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#123;% youku 480 400 %&#125;</span><br><span class="line">XMTQ2MjU2NTU2OA</span><br><span class="line">&#123;% endyouku %&#125;</span><br></pre></td></tr></table></figure></p> <p>其中，参数480指定视频展示的高度为480px，400则指定视频展示的宽度为400px，如不写明这两项参数则默认值为高度480px，宽度400px。</p> <p>实际效果请见<a href="http://zhoulvjun.github.io/2016/01/31/empathy/">同理心</a>。</p>]]></content>
+    <summary type="html">
+    <![CDATA[怎样在hexo驱动的博客中插入优酷视频？]]>
+    
+    </summary>
+    
+      <category term="视频" scheme="http://zhoulvjun.github.io/tags/%E8%A7%86%E9%A2%91/"/>
+    
+      <category term="hexo" scheme="http://zhoulvjun.github.io/categories/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[学习风格量表（VARK Questionnaire）]]></title>
+    <link href="http://zhoulvjun.github.io/2016/02/05/learning-style/"/>
+    <id>http://zhoulvjun.github.io/2016/02/05/learning-style/</id>
+    <published>2016-02-05T06:56:45.000Z</published>
+    <updated>2016-02-21T04:26:47.696Z</updated>
+    <content type="html"><![CDATA[<h1 id="问怎样了解自己是不是视觉型学习者">问：怎样了解自己是不是视觉型学习者？</h1> <h1 id="答">答：</h1> <p><a href="http://vark-learn.com/vark-调查表/" target="_blank" rel="external">VARK学习风格量表(中文版)</a></p> <p><a href="http://vark-learn.com/vark-调查表/vark调查问卷-青年版/" target="_blank" rel="external">VARK学习风格量表(中文版)-青年版</a></p> <p>更多功能见<a href="http://vark-learn.com/the-vark-questionnaire/" target="_blank" rel="external">VARK学习风格量表(英文版)</a></p>]]></content>
+    <summary type="html">
+    <![CDATA[怎样了解自己是不是视觉型学习者？]]>
+    
+    </summary>
+    
+      <category term="量表" scheme="http://zhoulvjun.github.io/tags/%E9%87%8F%E8%A1%A8/"/>
+    
+      <category term="思想" scheme="http://zhoulvjun.github.io/categories/%E6%80%9D%E6%83%B3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[历年的研究生和留学生数]]></title>
+    <link href="http://zhoulvjun.github.io/2016/02/01/stats0/"/>
+    <id>http://zhoulvjun.github.io/2016/02/01/stats0/</id>
+    <published>2016-02-01T07:17:35.000Z</published>
+    <updated>2016-02-01T07:54:47.701Z</updated>
+    <content type="html"><![CDATA[<h1 id="问哪里有历年的研究生和留学生数">问：哪里有历年的研究生和留学生数？</h1> <h1 id="答国家统计局的网站">答：<a href="http://data.stats.gov.cn/easyquery.htm?cn=C01&amp;zb=A0M0A&amp;sj=2014" target="_blank" rel="external">国家统计局的网站</a></h1> <p><a href="http://data.stats.gov.cn/easyquery.htm?cn=C01&amp;zb=A0M0A&amp;sj=2014" target="_blank" rel="external"><img src="/img/stats0.png" width="791" height="184" title=" 查阅1991年至今的数据"></a></p>]]></content>
+    <summary type="html">
+    <![CDATA[哪里有历年的研究生和留学生数？]]>
+    
+    </summary>
+    
+      <category term="统计" scheme="http://zhoulvjun.github.io/tags/%E7%BB%9F%E8%AE%A1/"/>
+    
+      <category term="数据" scheme="http://zhoulvjun.github.io/categories/%E6%95%B0%E6%8D%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[解决hexo的googlecharts标签插件失效]]></title>
+    <link href="http://zhoulvjun.github.io/2016/02/01/tag-googlecharts/"/>
+    <id>http://zhoulvjun.github.io/2016/02/01/tag-googlecharts/</id>
+    <published>2016-02-01T03:44:40.000Z</published>
+    <updated>2016-02-20T08:58:07.539Z</updated>
+    <content type="html"><![CDATA[<h1 id="问hexo-tag-googlecharts失效怎么办">问：hexo-tag-googlecharts失效怎么办？</h1> <h1 id="答">答：</h1> <p>该<a href="https://github.com/juampi92/hexo-tag-googlecharts" target="_blank" rel="external">插件</a>未充分考虑加载不同图表的需要，例如，不能正常处理WordTree的显示。以下为安装插件后的手工修改过程。</p> <h2 id="修改index.js">修改index.js</h2> <p>进入博客目录下的<code>node_modules\hexo-tag-googlecharts</code>，在<code>index.js</code>中寻找代码： <code>deps: ['corechart', 'geochart', 'table'],</code> 根据实际使用的图表类型进行修改，如需<code>WordTree</code>图表，代码应相应修改为： <code>deps: ['corechart', 'geochart', 'table', 'wordtree'],</code></p> <h2 id="范例的markdown部分">范例的markdown部分</h2> <figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br></pre></td><td class="code"><pre><span class="line">&#123;% googlecharts WordTree 600 500 %&#125;</span><br><span class="line">WordTree Example</span><br><span class="line">&#123;"wordtree": &#123;"format": "implicit", "word": "cats"&#125;&#125;</span><br><span class="line">'Phrases'</span><br><span class="line">'cats are better than dogs'</span><br><span class="line">'cats eat kibble'</span><br><span class="line">'cats are better than hamsters'</span><br><span class="line">'cats are awesome'</span><br><span class="line">'cats are people too'</span><br><span class="line">'cats eat mice'</span><br><span class="line">'cats meowing'</span><br><span class="line">'cats in the cradle'</span><br><span class="line">'cats eat mice'</span><br><span class="line">'cats in the cradle lyrics'</span><br><span class="line">'cats eat kibble'</span><br><span class="line">'cats for adoption'</span><br><span class="line">'cats are family'</span><br><span class="line">'cats eat mice'</span><br><span class="line">'cats are better than kittens'</span><br><span class="line">'cats are evil'</span><br><span class="line">'cats are weird'</span><br><span class="line">'cats eat mice'</span><br><span class="line">&#123;% endgooglecharts %&#125;</span><br></pre></td></tr></table></figure> <h2 id="注意事项">注意事项</h2> <p>各行都不能有前置空格；图表类型（此处为<code>WordTree</code>）区分大小写，正确写法应仔细对照<code>google</code>给出的<a href="https://google-developers.appspot.com/chart/interactive/docs/gallery/wordtree" target="_blank" rel="external">范例</a>。</p>]]></content>
+    <summary type="html">
+    <![CDATA[hexo-tag-googlecharts插件失效怎么办？]]>
+    
+    </summary>
+    
+      <category term="图表" scheme="http://zhoulvjun.github.io/tags/%E5%9B%BE%E8%A1%A8/"/>
+    
+      <category term="文本分析" scheme="http://zhoulvjun.github.io/tags/%E6%96%87%E6%9C%AC%E5%88%86%E6%9E%90/"/>
+    
+      <category term="hexo" scheme="http://zhoulvjun.github.io/categories/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[关怀经济学]]></title>
+    <link href="http://zhoulvjun.github.io/2016/01/31/caring/"/>
+    <id>http://zhoulvjun.github.io/2016/01/31/caring/</id>
+    <published>2016-01-31T07:21:36.000Z</published>
+    <updated>2016-02-04T06:17:40.429Z</updated>
+    <content type="html"><![CDATA[<h1 id="问什么是关怀经济学">问：什么是关怀经济学？</h1> <h1 id="答">答：</h1> <iframe height="480" width="400" src="http://player.youku.com/embed/XMTQ2MjU2MjIxNg" frameborder="0" allowfullscreen></iframe>]]></content>
+    <summary type="html">
+    <![CDATA[什么是关怀经济学？]]>
+    
+    </summary>
+    
+      <category term="思想" scheme="http://zhoulvjun.github.io/categories/%E6%80%9D%E6%83%B3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[同理心]]></title>
+    <link href="http://zhoulvjun.github.io/2016/01/31/empathy/"/>
+    <id>http://zhoulvjun.github.io/2016/01/31/empathy/</id>
+    <published>2016-01-31T07:08:06.000Z</published>
+    <updated>2016-02-07T07:33:34.455Z</updated>
+    <content type="html"><![CDATA[<h1 id="问什么是同理心">问：什么是同理心？</h1> <h1 id="答">答：</h1> <iframe height="480" width="400" src="http://player.youku.com/embed/XMTQ2MjU2NTU2OA" frameborder="0" allowfullscreen></iframe>]]></content>
+    <summary type="html">
+    <![CDATA[什么是同理心？]]>
+    
+    </summary>
+    
+      <category term="思想" scheme="http://zhoulvjun.github.io/categories/%E6%80%9D%E6%83%B3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[词树(WordTree)分析《党委会的工作方法》]]></title>
+    <link href="http://zhoulvjun.github.io/2016/01/30/googlechart/"/>
+    <id>http://zhoulvjun.github.io/2016/01/30/googlechart/</id>
+    <published>2016-01-30T15:26:20.000Z</published>
+    <updated>2016-02-27T23:54:07.390Z</updated>
+    <content type="html"><![CDATA[<h1 id="问如何使用谷歌的动态图表进行文本分析">问：如何使用谷歌的动态图表进行文本分析？</h1> <h1 id="答用词树wordtree呈现党委等文中任意词的使用情况原文出处见党委会的工作方法">答：用词树(WordTree)呈现“党委”等文中任意词的使用情况，原文出处见<a href="http://www.people.com.cn/item/sj/sdldr/mzd/c113.html" target="_blank" rel="external">《党委会的工作方法》</a>。</h1> <p>使用说明：在呈现出的词树中，点击任意字或词将检索出以之为首尾的词句。在平板电脑上第一次点击只是显示该字或词的局部权重（该节点一级分枝的频度之和），还需再次点击才能将之切换成待分析词。</p> <div style="width:91%;margin:0 auto"> <iframe src="/WordTree.html" scrolling="no" frameborder="0" height="500px" width="100%"> </iframe> </div>]]></content>
+    <summary type="html">
+    <![CDATA[如何使用谷歌的动态图表进行文本分析？]]>
+    
+    </summary>
+    
+      <category term="图表" scheme="http://zhoulvjun.github.io/tags/%E5%9B%BE%E8%A1%A8/"/>
+    
+      <category term="文本分析" scheme="http://zhoulvjun.github.io/tags/%E6%96%87%E6%9C%AC%E5%88%86%E6%9E%90/"/>
+    
+      <category term="毛泽东" scheme="http://zhoulvjun.github.io/tags/%E6%AF%9B%E6%B3%BD%E4%B8%9C/"/>
+    
+      <category term="统计" scheme="http://zhoulvjun.github.io/tags/%E7%BB%9F%E8%AE%A1/"/>
+    
+      <category term="hexo" scheme="http://zhoulvjun.github.io/categories/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[百度的动态图表]]></title>
+    <link href="http://zhoulvjun.github.io/2016/01/30/chart/"/>
+    <id>http://zhoulvjun.github.io/2016/01/30/chart/</id>
+    <published>2016-01-30T15:26:20.000Z</published>
+    <updated>2016-02-17T02:19:25.851Z</updated>
+    <content type="html"><![CDATA[<h1 id="问hexo驱动的博客能展示百度的动态图表吗">问：hexo驱动的博客能展示百度的动态图表吗？</h1> <h1 id="答点击图例可改变数据的呈现内容">答：点击图例可改变数据的呈现内容。</h1> <div id="echarts6110" style="width:81%;height:400px;margin:0 auto"></div> <script type="text/javascript">var myChart=echarts.init(document.getElementById("echarts6110")),option={tooltip:{trigger:"axis",axisPointer:{type:"shadow"}},legend:{data:["利润","支出","收入"]},grid:{left:"3%",right:"4%",bottom:"3%",containLabel:!0},xAxis:[{type:"value"}],yAxis:[{type:"category",axisTick:{show:!1},data:["周一","周二","周三","周四","周五","周六","周日"]}],series:[{name:"利润",type:"bar",itemStyle:{normal:{label:{show:!0,position:"inside"}}},data:[200,170,240,244,200,220,210]},{name:"收入",type:"bar",stack:"总量",itemStyle:{normal:{label:{show:!0}}},data:[320,302,341,374,390,450,420]},{name:"支出",type:"bar",stack:"总量",itemStyle:{normal:{label:{show:!0,position:"left"}}},data:[-120,-132,-101,-134,-190,-230,-210]}]};myChart.setOption(option),window.onresize=myChart.resize;</script>]]></content>
+    <summary type="html">
+    <![CDATA[hexo驱动的博客能展示百度的动态图表吗？]]>
+    
+    </summary>
+    
+      <category term="图表" scheme="http://zhoulvjun.github.io/tags/%E5%9B%BE%E8%A1%A8/"/>
+    
+      <category term="hexo" scheme="http://zhoulvjun.github.io/categories/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[显示统计公式]]></title>
+    <link href="http://zhoulvjun.github.io/2016/01/30/forumla/"/>
+    <id>http://zhoulvjun.github.io/2016/01/30/forumla/</id>
+    <published>2016-01-30T14:51:51.000Z</published>
+    <updated>2016-02-02T06:49:39.920Z</updated>
+    <content type="html"><![CDATA[<h1 id="问hexo驱动的博客能展示统计公式吗">问：hexo驱动的博客能展示统计公式吗？</h1> <h1 id="答">答：</h1> <blockquote> <ul> <li>中位数： $M_{e}=\begin{cases} x_{(\frac{n+1}{2})}, & \text{} n为奇数 \\\\ \frac{1}{2}\begin{Bmatrix} x_{(\frac{n}{2})}+x_{(\frac{n}{2}+1)} \end{Bmatrix}, & \text{} n为偶数 \end{cases}$ </li> </ul> </blockquote> <blockquote> <ul> <li>方差： $s^{2}=\frac{\sum\limits_{i=1}^{n}(x_{i}-\bar{x})^{2}}{n-1}$ </li> </ul> </blockquote>]]></content>
+    <summary type="html">
+    <![CDATA[hexo驱动的博客能展示统计公式吗？]]>
+    
+    </summary>
+    
+      <category term="公式" scheme="http://zhoulvjun.github.io/tags/%E5%85%AC%E5%BC%8F/"/>
+    
+      <category term="统计" scheme="http://zhoulvjun.github.io/tags/%E7%BB%9F%E8%AE%A1/"/>
+    
+      <category term="hexo" scheme="http://zhoulvjun.github.io/categories/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[博客网站名称的由来]]></title>
+    <link href="http://zhoulvjun.github.io/2016/01/29/hello-world/"/>
+    <id>http://zhoulvjun.github.io/2016/01/29/hello-world/</id>
+    <published>2016-01-29T00:08:08.000Z</published>
+    <updated>2016-02-26T07:23:11.334Z</updated>
+    <content type="html"><![CDATA[<h1 id="问博客网站名称怎么想到的">问：博客网站名称怎么想到的？</h1> <h1 id="答">答：</h1> <blockquote>鲲鹏展翅，九万里，翻动扶摇羊角。背负青天朝下看，都是人间城郭。 炮火连天，弹痕遍地，吓倒蓬间雀。怎么得了，哎呀我要飞跃。 借问君去何方，雀儿答道：有仙山琼阁。不见前年秋月朗，订了三家条约。还有吃的，土豆烧熟了，再加牛肉。 不须放屁！试看天地翻覆。<footer><strong>毛泽东</strong><cite>念奴娇·鸟儿问答</cite></footer></blockquote>]]></content>
+    <summary type="html">
+    <![CDATA[博客网站名称怎么想到的？]]>
+    
+    </summary>
+    
+      <category term="毛泽东" scheme="http://zhoulvjun.github.io/tags/%E6%AF%9B%E6%B3%BD%E4%B8%9C/"/>
+    
+      <category term="思想" scheme="http://zhoulvjun.github.io/categories/%E6%80%9D%E6%83%B3/"/>
+    
+  </entry>
+  
+</feed>

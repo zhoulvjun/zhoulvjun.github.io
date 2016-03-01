@@ -1,0 +1,881 @@
+
+
+/*
+ * base stylesheets included in every chart
+ */
+.chart #header {
+  min-height: 1px;
+  position: relative;
+}
+.chart #header .header-right {
+  position: absolute;
+  right: 10px;
+  z-index: 20;
+}
+.chart #footer {
+  min-height: 1px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 25px;
+}
+.chart #footer .footer-left,
+.chart #footer .footer-right {
+  position: absolute;
+  bottom: 5px;
+  z-index: 1000;
+}
+.chart #footer .footer-left {
+  left: 5px;
+}
+.chart #footer .footer-right {
+  right: 5px;
+}
+.chart .logo {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+.chart .logo .big {
+  display: none;
+}
+.chart.plain #footer {
+  height: 10px;
+}
+.chart.js .noscript {
+  display: none;
+}
+.chart .hidden {
+  display: none;
+}
+.chart .label.annotation span {
+  background: transparent;
+}
+
+
+
+
+.line-chart .label span {
+    background-color: #fff;
+}
+
+html .line-chart  .label.tooltip span {
+    background: none;
+}
+
+.line-chart .label.highlighted {
+    z-index: 100;
+}
+
+.line-chart .label.highlighted span,
+.line-chart .label.axis span {
+    background-color: #fff;
+}
+
+.line-chart .label.rotate45 {
+    -moz-transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+}
+
+.line-chart .label.x-axis {
+    font-weight: bold;
+}
+
+.line-chart .label.x-axis.h span {
+    padding: 2px 5px 5px;
+}
+
+html, body {
+    overflow: hidden!important;
+}
+
+.line-chart .tooltip {
+    padding: 2px 0px;
+    text-align: center;
+    z-index: 100;
+}
+
+.line-chart .tooltip:after {
+    content: "⎮";
+    position: absolute;
+    bottom: -10px;
+    left: 20%;
+    right: 20%;
+    color: rgba(0,0,0,.8);
+    font-size: 10px;
+    line-height: 10px;
+    font-family: Arial;
+    z-index: -1;
+    text-align: center;
+}
+
+
+/*
+ * Default Theme
+ * -------------
+ *
+ */
+
+
+body, html {
+
+}
+
+a { color: #0088CC; }
+
+body.chart {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    margin: 0 0px;
+    background: #fff;
+    padding-bottom: 1%;
+}
+
+h1 {
+    font-size: 22px;
+    font-weight: 300;
+    margin: 0 0 10px;
+    text-align: left;
+}
+
+h1 span {
+}
+
+/* NOTE: On IE, there is a border around each image which is a link */
+a img { border:0px; }
+
+.chart p { margin: 5px 0 10px!important; line-height: 17px;}
+
+.label {
+    font-size: 12px;
+}
+
+.label span {
+    color: #333;
+    text-shadow: 0 0 2px #fff;
+}
+
+.label.inverted span {
+    text-shadow: 0 0px 2px #000000;
+}
+
+.label.outline span {
+    text-shadow: 0 1px 0 #FFFFFF, 1px 0 0 #FFFFFF, 0 -1px 0 #FFFFFF, -1px 0 0 #FFFFFF,
+        1px 1px 0 #FFFFFF, 1px -1px 0 #FFFFFF, -1px -1px 0 #FFFFFF, -1px 1px 0 #FFFFFF,
+        0 2px 1px #FFFFFF, 2px 0 1px #FFFFFF, 0 -2px 1px #FFFFFF, -2px 0 1px #FFFFFF,
+        -1px 2px 0px #FFFFFF, 2px -1px 0px #FFFFFF, -1px -2px 0px #FFFFFF, -2px -1px 0px #FFFFFF,
+        1px 2px 0px #FFFFFF, 2px 1px 0px #FFFFFF, 1px -2px 0px #FFFFFF, -2px 1px 0px #FFFFFF;
+}
+
+.label.outline span sup {
+    text-shadow: none;
+}
+
+.label.highlighted, .label.axis {
+    font-size: 12px;
+    z-index: 100;
+}
+
+.label.hover {
+    font-weight: bold;
+}
+
+.label.inverted span {
+    color: #fff;
+}
+
+.label.highlighted {
+    font-weight: bold;
+}
+
+.label.value span {
+    font-size: 12px;
+}
+
+.label.series span {
+    font-size: 12px;
+}
+
+
+.tooltip {
+    z-index: 200;
+    padding-bottom: 0px;
+}
+
+.tooltip .content {
+    background-color: #fff;
+    border: 1px solid #888;
+    box-shadow: 2px 2px 2px rgba(0,0,0,.2);
+    padding: 5px 8px;
+}
+
+.tooltip label {
+    font-weight: 700;
+}
+
+.tooltip label:after {
+    content: ": ";
+}
+
+#footer {
+    font-size: 11px;
+    color: #888;
+    /* The footer must now cover the chart to allow
+    the toggleable panel to "go up" */
+    z-index: 1100;
+    /* Sets the background here to propagate it to its children */
+    background:transparent;
+    padding-top: 2%;
+}
+
+
+#footer .footer-left {
+    bottom:0;
+    /* Vertical text align */
+}
+
+/* We have to break to absolute positionof the footer
+to allow absolute positioning related to the #footer
+within the .toggleable-panel */
+#footer .footer-right {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.footer-right .toggle-panel {
+    display:none;
+}
+
+
+.footer-right .toggle-panel:after {
+    content:" ▲";
+}
+
+/* Add a comma after the source block */
+.toggleable-panel .source-block:after {
+    content:","
+}
+
+/* This oiverlay cover the body when the toggleable panel is open */
+.toggleable-panel-overlay {
+    position:absolute;
+    bottom:0;
+    left:0;
+    right:0;
+    opacity:0;
+    background:#fff;
+    /* Bellow the stacking context to avoid overlap toggle link */
+    z-index:-1;
+
+    -moz-transition: opacity 0.7s;
+    -webkit-transition: opacity 0.7s;
+    -ms-transition: opacity 0.7s;
+    -o-transition: opacity 0.7s;
+}
+
+/* Target screens under 400px */
+@media all and (max-width: 400px) {
+    /* We must compensate the right offset
+    that we just removed by adding this distances to
+    the .toggle-panel element (that toggles the about panel).
+    We choose to user padding to enlarge the touchable area.  */
+
+    .chart #footer { height: auto; }
+    .chart #footer .footer-left { position: static; }
+
+}
+
+.clearfix:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+}
+
+.clearfix {
+    display: inline-block;
+}
+
+html[xmlns] .clearfix {
+    display: block;
+}
+
+* html .clearfix {
+    height: 1%;
+}
+
+svg .axis, svg .tick, svg .grid, svg rect {
+    shape-rendering: crispEdges;
+}
+
+
+.label.rotate90 {
+    -moz-transform: rotate(-90deg);
+    -webkit-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+}
+
+.label.smaller span {
+    font-size: 80%;
+}
+
+.filter-links {
+    height: 30px;
+    overflow: hidden;
+}
+
+.filter-links a {
+    padding: 0px 10px;
+    box-shadow: 0 0 10px #ddd inset;
+    border: 1px solid #bbb;
+    border-left: 0;
+    display: block;
+    float: left;
+    text-decoration: underline;
+    color: #666;
+    height: 28px;
+    line-height: 28px;
+    background: #fbfbfb;
+}
+
+.filter-links a:hover {
+    background: #fff;
+    color: #0088CC;
+}
+
+*+html .filter-links a {  background: #eeeeee; } /** IE7 hack **/
+.filter-links a { background: #eeeeee\0/; }  /** IE8 hack **/
+
+
+.filter-links a.active {
+    font-weight: bold;
+    color: #000;
+    box-shadow: none;
+    background: #fff;
+    cursor: default;
+    text-decoration: none;
+}
+
+.filter-links a:first-child {
+    border-radius: 10px 0 0 10px;
+    border-left: 1px solid #bbb;
+}
+
+.filter-links a:last-child {
+    border-radius: 0 10px 10px 0;
+}
+
+.filter-select {
+    background-color: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    border-radius: 4px 4px 4px 4px;
+    padding: 4px 6px;
+    vertical-align: middle;
+    font-size: 12px;
+}
+
+.line-chart .tooltip {
+    border-radius: 5px;
+}
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 480px) {
+    /* no fullscreen button on smartphones, never */
+    .fs-btn {
+        display: none!important;
+    }
+}
+
+
+/*
+ * Guardian Theme
+ * --------------
+ *
+ */
+@font-face {
+    font-family: 'Guardian Egyptian Bold';
+    src: url('/js/Guardian-Egyp-Web-Bold.eot');
+    src: url('/js/Guardian-Egyp-Web-Bold.eot?#iefix') format('embedded-opentype'),
+         url('/js/Guardian-Egyp-Web-Bold.woff') format('woff'),
+         url('/js/Guardian-Egyp-Web-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+}
+@font-face {
+    font-family: 'Guardian Egyptian Semi Bold';
+    src: url('/js/Guardian-Egyp-Web-Semibold.eot');
+    src: url('/js/Guardian-Egyp-Web-Semibold.eot?#iefix') format('embedded-opentype'),
+         url('/js/Guardian-Egyp-Web-Semibold.woff') format('woff'),
+         url('/js/Guardian-Egyp-Web-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: 'Guardian Egyptian Light';
+    src: url('/js/Guardian-Egyp-Web-Light.eot');
+    src: url('/js/Guardian-Egyp-Web-Light.eot?#iefix') format('embedded-opentype'),
+         url('/js/Guardian-Egyp-Web-Light.woff') format('woff'),
+         url('/js/Guardian-Egyp-Web-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: 'Guardian Text Egyptian Web';
+    src: url('/js/Guardian-Egyp-Web-Regular.eot');
+    src: url('/js/Guardian-Egyp-Web-Regular.eot?#iefix') format('embedded-opentype'),
+         url('/js/Guardian-Egyp-Web-Regular.woff') format('woff'),
+         url('/js/Guardian-Egyp-Web-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+}
+@font-face {
+    font-family: 'Agate Sans';
+    src: url('/js/Guardian-Ag-Sans-1-Web-Reg.eot');
+    src: url('/js/Guardian-Ag-Sans-1-Web-Reg.eot?#iefix') format('embedded-opentype'),
+         url('/js/Guardian-Ag-Sans-1-Web-Reg.woff') format('woff'),
+         url('/js/Guardian-Ag-Sans-1-Web-Reg.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+}
+html{
+
+    height: 99%;
+    font-size: 12px;
+
+}
+body.chart {
+    font-family: Guardian Egyptian Light;
+    color: #000000;
+    overflow: visible;
+    overflow-x: hidden;
+    padding: 0 0 0;
+    margin: 0;
+    background: #ffffff url("line-top.png") no-repeat fixed left top;
+}
+
+h1 {
+    margin: 0 0 10px;
+    font-family: Guardian Egyptian Bold;
+    font-size: 1.333333333em;
+    line-height:1.154;
+    text-align: left;
+    color: #005689;
+    padding: 1.52173913% 0 0.5%;
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+}
+a{
+
+}
+
+.fullscreen h1 {
+    border-top-width: 3px;
+    font-size: 2.167em;
+    line-height: 2.167em;
+    padding: 10px 0 15px;
+    margin-right: 200px!important;
+}
+
+p {
+font-family: Guardian Egyptian Light;
+font-size: 1em;
+margin: 5% 0;
+}
+
+.label {
+font-family: Agate Sans;
+font-size: 1em;
+
+}
+
+#chart > div .label.value { font-size: 1em; }
+#chart > div .label.series { font-size: 1em; }
+.label.series span {
+padding: 0.125% 0.1% 0.125%;
+font-size: 1em;
+}
+
+.line-chart .label.highlighted .series {
+font-size: 1em!important;
+}
+
+ #chart > div.legend > div{
+width: 30%;
+ }
+
+.label.highlighted, .label.axis {
+    z-index: 100;
+}
+
+.label.hover {
+    font-weight: bold;
+}
+
+.label.inverted span {
+    color: #fff;
+}
+
+.label.highlighted {
+    font-weight: bold;
+}
+#chart > div.label.value.outline span{
+font-family: Guardian Egyptian Semi Bold;
+font-weight: 600;
+font-style: normal;
+font-stretch: normal;
+}
+#chart > div.label.value span{
+font-family: Guardian Egyptian Semi Bold;
+font-weight: 600;
+font-style: normal;
+font-stretch: normal;
+}
+
+
+rect{
+stroke: none!important;
+}
+
+
+.tooltip {
+    z-index: 200;
+    padding-bottom: 0px;
+}
+
+.tooltip .content {
+    background-color: #fff;
+    border: 1px solid #888;
+    box-shadow: 2px 2px 2px rgba(0,0,0,.2);
+    padding: 5px 8px;
+}
+
+.footer-right img {
+    position: relative;
+}
+
+.tooltip label {
+    font-weight: 700;
+}
+
+.tooltip label:after {
+    content: ": ";
+}
+#footer{
+    font-family: Agate Sans;
+    width: 100%;
+    height: 8%;
+    padding-bottom: 1%;
+    clear: both;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.chart.theme-guardian .dw-chart-notes {
+    font-family: Agate Sans;
+    color: #000000;
+    font-style: normal;
+}
+
+.chart.theme-guardian #footer .footer-left{
+    width: 80%;
+    left:0;
+}
+#footer > a .logo{
+    margin-bottom: 0;
+}
+#footer a {
+    font-family: Agate Sans;
+    color: #000000;
+    text-decoration: none;
+}
+
+
+
+.clearfix:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+}
+
+.clearfix {
+    display: inline-block;
+}
+
+html[xmlns] .clearfix {
+    display: block;
+}
+
+* html .clearfix {
+    height: 1%;
+}
+
+svg .axis, svg .tick, svg .grid, svg rect {
+    shape-rendering: crispEdges;
+}
+
+.label.rotate90 {
+    -moz-transform: rotate(-90deg);
+    -webkit-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+}
+
+.label.smaller span {
+    font-size: 80%;
+}
+
+#datatable {
+    background: #F3F3F3;
+}
+
+#datatable thead tr {
+    background: #D3D3D3;
+    border-bottom: 0;
+}
+
+#datatable thead th {
+    border-color: #D3D3D3;
+}
+
+#datatable tbody tr:hover {
+    background: #dbdbdb;
+}
+
+.filter-links a {
+    font-family: Guardian Egyptian Light;
+    border-radius: 0!important;
+    line-height: 25px;
+    height: 92%;
+    text-decoration: underline;
+    box-shadow: none;
+    color: #000;
+    background: #eee;
+}
+
+.filter-links a.active {
+    text-decoration: none;
+}
+
+.embed-code {
+    position: absolute;
+    bottom: 8%;
+    left: 0;
+    width: 100%;
+    padding: 7%;
+    background: #eee;
+    color: #000;
+    border-radius: 6px;
+    text-transform: none;
+    font-size: 1em;
+    box-shadow: 2px 2px 0px rgba(0,0,0,.4);
+}
+
+.embed-code textarea {
+    width: 90%;
+    margin-top: 2%;
+    height: 7em;
+}
+
+.hide {
+    display: none;
+}
+
+.embed-code .close {
+    cursor: pointer;
+    position: absolute;
+    right: 2%;
+    top: 2%;
+    font-size: 1.125em;
+    opacity: 0.7;
+}
+
+.embed-code .close:hover {
+    opacity: 1;
+}
+ /* smallest */
+@media only screen
+and (max-width : 320px) {
+body.chart {
+    font-size: 90%;
+    padding: 0 0 1%;
+    margin: 0 0  0;
+}
+div#chart{
+padding: 0 0 0;
+margin: 0px 0px 0px;
+}
+
+#chart.line-chart {
+margin: 0 0  0;
+}
+
+#header > h1{
+margin: 0 0 0;
+padding:  1% 0;
+line-height:  90%;
+}
+#header > p{
+padding: 0.9% 0 0;
+margin: 0 0 0;
+line-height: 95%;
+}
+#header > div > a{
+padding: 0 0 0;
+margin: 0 0  0;
+text-decoration: none;
+}
+
+.filter-ui filter-links{
+padding: 0 0 0;
+margin: 0 0 0;
+
+}
+.filter-ui .filter-links a{
+padding: 0 0 0;
+margin: 0 0 0;
+}
+#footer{
+font-size: 0.9em;
+padding: 0.9% 0 0;
+margin: 0 0 0;
+}
+#footer-left{
+padding: 0 0 0;
+margin: 0 0 0;
+}
+
+#footer-right{
+padding: 0 0 0;
+margin: 0 0 0;
+}
+#footer > a > img.small{
+height: 25px;
+width: 25px;
+}
+
+#chart > div.label.series.inverted > span > b {
+font-size: 90%;
+font-weight: bold;
+}
+
+div.label.value span{
+font-size: 110%;
+}
+
+}
+
+/* smallest */
+@media only screen
+and (max-width : 320px)
+and (max-height : 200px) {
+body.chart {
+    font-size: 85%;
+    padding: 0 0 0;
+    margin: 0 0  0;
+    background: none;
+}
+div#chart{
+padding: 0 0 0;
+margin: 0px 0px 0px;
+}
+
+#chart.line-chart {
+margin: 0 0  0;
+}
+
+#header > h1{
+margin: 0 0 0;
+padding: 0 0 0.9%;
+line-height:  90%;
+}
+#header > p{
+padding: 0 0;
+margin: 0 0 0;
+}
+#header > div > a{
+padding: 0 0 0;
+margin: 0 0  0;
+text-decoration: none;
+}
+
+.filter-ui filter-links{
+padding: 0 0 0;
+margin: 0 0 0;
+
+}
+.filter-ui .filter-links a{
+padding: 0 0 0;
+margin: 0 0 0;
+}
+#footer{
+font-size: 0.8em;
+padding: 0.9% 0 0;
+margin: 0 0 0;
+}
+#footer-left{
+padding: 0 0 0;
+margin: 0 0 0;
+}
+#footer-right{
+padding: 0 0 0;
+margin: 0 0 0;
+}
+#footer > a > img.small{
+height: 20px;
+width: 20px;
+}
+#chart > div.label.series.inverted > span > b {
+font-size: 90%;
+font-weight: bold;
+}
+div.label.value span{
+font-size: 110%;
+}
+
+}
+
+/* Desktops and laptops ----------- */
+@media only screen
+and (min-width : 1224px) {
+body.chart {
+    font-size: 125%;
+}
+.label {
+font-size: 1em;
+
+}
+#chart > div .label .value .outline > span{
+font-size: 2em;
+}
+#footer > a > img.small{
+height: 50px;
+width: 50px;
+}
+}
+
+
+
+
