@@ -4,7 +4,7 @@
   <subtitle><![CDATA[周旅军的个人博客]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://zhoulvjun.github.io/"/>
-  <updated>2016-05-31T22:22:12.560Z</updated>
+  <updated>2016-05-31T22:24:08.759Z</updated>
   <id>http://zhoulvjun.github.io/</id>
   
   <author>
@@ -19,8 +19,8 @@
     <link href="http://zhoulvjun.github.io/2016/06/01/jd-1/"/>
     <id>http://zhoulvjun.github.io/2016/06/01/jd-1/</id>
     <published>2016-05-31T22:14:06.000Z</published>
-    <updated>2016-05-31T22:22:12.560Z</updated>
-    <content type="html"><![CDATA[<h1 id="问2016中国母婴产品消费趋势报告全文">问：《2016中国母婴产品消费趋势报告》全文？</h1> <h1 id="答2016中国母婴产品消费趋势报告">答：<a href="/data/jd0523.pdf">《2016中国母婴产品消费趋势报告》</a></h1> <p>以下简介摘自：新闻链接<a href="http://money.163.com/16/0524/16/BNRHDGKE00253B0H.html" target="_blank" rel="external">2016中国母婴产品消费趋势报告正式发布</a></p> <p>5月24日，由21世纪经济研究院主办，21世纪报系联合主办，京东大数据和京东云提供数据支持的“2016 中国母婴产品消费趋势报告”发布会在北京万达索菲特大饭店召开。21世纪报系党委副书记、总经理刘健东，21世纪经济报道编委、21世纪经济研究院执行副院长陈晨星，京东集团副总裁李曦、京东商城消费品事业部营销推广部总经理闫跃龙出席发布会。中国贸促会研究院主任研究员赵萍，和中国社科院社会发展战略研究院、社会发展评估实验室特聘研究员周旅军作为嘉宾，以及50多家媒体朋友应邀参加了发布会。</p> <p>据悉，此次发布的《2016 中国母婴产品消费趋势报告》是由21世纪经济研究院与京东联合推出，其不仅是双方合作发布的首份大数据产品，更是国内首份母婴细分行业生态报告。京东拥有精准和高价值的数据，覆盖了从用户浏览、下单、到物流配送及售后客服的完整过程。报告基于京东平台海量的用户行为和商品消费数据，从母婴消费发展概况、消费者特征洞察、母婴全球购、单品分析、趣味分析榜及母婴产品消费新趋势等六大方面，对母婴消费前中后行为和中国母婴行业生态进行了深度剖析，进而全面呈现出一张中国母婴消费地图。</p>]]></content>
+    <updated>2016-05-31T22:24:08.759Z</updated>
+    <content type="html"><![CDATA[<h1 id="问2016中国母婴产品消费趋势报告全文">问：《2016中国母婴产品消费趋势报告》全文？</h1> <h1 id="答2016中国母婴产品消费趋势报告">答：<a href="/data/jd0523.pdf">《2016中国母婴产品消费趋势报告》</a></h1> <p>以下简介摘自：<a href="http://money.163.com/16/0524/16/BNRHDGKE00253B0H.html" target="_blank" rel="external">2016中国母婴产品消费趋势报告正式发布</a></p> <p>5月24日，由21世纪经济研究院主办，21世纪报系联合主办，京东大数据和京东云提供数据支持的“2016 中国母婴产品消费趋势报告”发布会在北京万达索菲特大饭店召开。21世纪报系党委副书记、总经理刘健东，21世纪经济报道编委、21世纪经济研究院执行副院长陈晨星，京东集团副总裁李曦、京东商城消费品事业部营销推广部总经理闫跃龙出席发布会。中国贸促会研究院主任研究员赵萍，和中国社科院社会发展战略研究院、社会发展评估实验室特聘研究员周旅军作为嘉宾，以及50多家媒体朋友应邀参加了发布会。</p> <p>据悉，此次发布的《2016 中国母婴产品消费趋势报告》是由21世纪经济研究院与京东联合推出，其不仅是双方合作发布的首份大数据产品，更是国内首份母婴细分行业生态报告。京东拥有精准和高价值的数据，覆盖了从用户浏览、下单、到物流配送及售后客服的完整过程。报告基于京东平台海量的用户行为和商品消费数据，从母婴消费发展概况、消费者特征洞察、母婴全球购、单品分析、趣味分析榜及母婴产品消费新趋势等六大方面，对母婴消费前中后行为和中国母婴行业生态进行了深度剖析，进而全面呈现出一张中国母婴消费地图。</p>]]></content>
     <summary type="html">
     <![CDATA[《2016中国母婴产品消费趋势报告》全文？]]>
     
@@ -362,7 +362,7 @@
     <id>http://zhoulvjun.github.io/2016/01/30/chart/</id>
     <published>2016-01-30T15:26:20.000Z</published>
     <updated>2016-02-17T02:19:25.851Z</updated>
-    <content type="html"><![CDATA[<h1 id="问hexo驱动的博客能展示百度的动态图表吗">问：hexo驱动的博客能展示百度的动态图表吗？</h1> <h1 id="答点击图例可改变数据的呈现内容">答：点击图例可改变数据的呈现内容。</h1> <div id="echarts5903" style="width:81%;height:400px;margin:0 auto"></div> <script type="text/javascript">var myChart=echarts.init(document.getElementById("echarts5903")),option={tooltip:{trigger:"axis",axisPointer:{type:"shadow"}},legend:{data:["利润","支出","收入"]},grid:{left:"3%",right:"4%",bottom:"3%",containLabel:!0},xAxis:[{type:"value"}],yAxis:[{type:"category",axisTick:{show:!1},data:["周一","周二","周三","周四","周五","周六","周日"]}],series:[{name:"利润",type:"bar",itemStyle:{normal:{label:{show:!0,position:"inside"}}},data:[200,170,240,244,200,220,210]},{name:"收入",type:"bar",stack:"总量",itemStyle:{normal:{label:{show:!0}}},data:[320,302,341,374,390,450,420]},{name:"支出",type:"bar",stack:"总量",itemStyle:{normal:{label:{show:!0,position:"left"}}},data:[-120,-132,-101,-134,-190,-230,-210]}]};myChart.setOption(option),window.onresize=myChart.resize;</script>]]></content>
+    <content type="html"><![CDATA[<h1 id="问hexo驱动的博客能展示百度的动态图表吗">问：hexo驱动的博客能展示百度的动态图表吗？</h1> <h1 id="答点击图例可改变数据的呈现内容">答：点击图例可改变数据的呈现内容。</h1> <div id="echarts2981" style="width:81%;height:400px;margin:0 auto"></div> <script type="text/javascript">var myChart=echarts.init(document.getElementById("echarts2981")),option={tooltip:{trigger:"axis",axisPointer:{type:"shadow"}},legend:{data:["利润","支出","收入"]},grid:{left:"3%",right:"4%",bottom:"3%",containLabel:!0},xAxis:[{type:"value"}],yAxis:[{type:"category",axisTick:{show:!1},data:["周一","周二","周三","周四","周五","周六","周日"]}],series:[{name:"利润",type:"bar",itemStyle:{normal:{label:{show:!0,position:"inside"}}},data:[200,170,240,244,200,220,210]},{name:"收入",type:"bar",stack:"总量",itemStyle:{normal:{label:{show:!0}}},data:[320,302,341,374,390,450,420]},{name:"支出",type:"bar",stack:"总量",itemStyle:{normal:{label:{show:!0,position:"left"}}},data:[-120,-132,-101,-134,-190,-230,-210]}]};myChart.setOption(option),window.onresize=myChart.resize;</script>]]></content>
     <summary type="html">
     <![CDATA[hexo驱动的博客能展示百度的动态图表吗？]]>
     
