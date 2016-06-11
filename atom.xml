@@ -306,7 +306,7 @@
     <id>http://zhoulvjun.github.io/2016/01/31/caring/</id>
     <published>2016-01-31T07:21:36.000Z</published>
     <updated>2016-02-04T06:17:40.429Z</updated>
-    <content type="html"><![CDATA[<h1 id="问什么是关怀经济学">问：什么是关怀经济学？</h1> <h1 id="答">答：</h1> <html><body><div align="center" id="youkuplayer" width="400px" height="480px"></div><script type="text/javascript" src="https://players.youku.com/jsapi"></script><script type="text/javascript">player=new YKU.Player("youkuplayer",{styleid:"0",client_id:"073b99decd9bcead",vid:"XMTQ2MjU2MjIxNg"});</script></body></html>]]></content>
+    <content type="html"><![CDATA[<h1 id="问什么是关怀经济学">问：什么是关怀经济学？</h1> <h1 id="答">答：</h1> <html><body><div align="center" id="youkuplayer" width="400px" height="480px"></div><script type="text/javascript" src="http://player.youku.com/jsapi"></script><script type="text/javascript">player=new YKU.Player("youkuplayer",{styleid:"0",client_id:"073b99decd9bcead",vid:"XMTQ2MjU2MjIxNg"});</script></body></html>]]></content>
     <summary type="html">
     <![CDATA[什么是关怀经济学？]]>
     
@@ -322,7 +322,7 @@
     <id>http://zhoulvjun.github.io/2016/01/31/empathy/</id>
     <published>2016-01-31T07:08:06.000Z</published>
     <updated>2016-02-07T07:33:34.455Z</updated>
-    <content type="html"><![CDATA[<h1 id="问什么是同理心">问：什么是同理心？</h1> <h1 id="答">答：</h1> <html><body><div align="center" id="youkuplayer" width="400px" height="480px"></div><script type="text/javascript" src="https://players.youku.com/jsapi"></script><script type="text/javascript">player=new YKU.Player("youkuplayer",{styleid:"0",client_id:"073b99decd9bcead",vid:"XMTQ2MjU2NTU2OA"});</script></body></html>]]></content>
+    <content type="html"><![CDATA[<h1 id="问什么是同理心">问：什么是同理心？</h1> <h1 id="答">答：</h1> <html><body><div align="center" id="youkuplayer" width="400px" height="480px"></div><script type="text/javascript" src="http://player.youku.com/jsapi"></script><script type="text/javascript">player=new YKU.Player("youkuplayer",{styleid:"0",client_id:"073b99decd9bcead",vid:"XMTQ2MjU2NTU2OA"});</script></body></html>]]></content>
     <summary type="html">
     <![CDATA[什么是同理心？]]>
     
@@ -362,7 +362,7 @@
     <id>http://zhoulvjun.github.io/2016/01/30/chart/</id>
     <published>2016-01-30T15:26:20.000Z</published>
     <updated>2016-02-17T02:19:25.851Z</updated>
-    <content type="html"><![CDATA[<h1 id="问hexo驱动的博客能展示百度的动态图表吗">问：hexo驱动的博客能展示百度的动态图表吗？</h1> <h1 id="答点击图例可改变数据的呈现内容">答：点击图例可改变数据的呈现内容。</h1> <div id="echarts9930" style="width:81%;height:400px;margin:0 auto"></div> <script type="text/javascript">var myChart=echarts.init(document.getElementById("echarts9930")),option={tooltip:{trigger:"axis",axisPointer:{type:"shadow"}},legend:{data:["利润","支出","收入"]},grid:{left:"3%",right:"4%",bottom:"3%",containLabel:!0},xAxis:[{type:"value"}],yAxis:[{type:"category",axisTick:{show:!1},data:["周一","周二","周三","周四","周五","周六","周日"]}],series:[{name:"利润",type:"bar",itemStyle:{normal:{label:{show:!0,position:"inside"}}},data:[200,170,240,244,200,220,210]},{name:"收入",type:"bar",stack:"总量",itemStyle:{normal:{label:{show:!0}}},data:[320,302,341,374,390,450,420]},{name:"支出",type:"bar",stack:"总量",itemStyle:{normal:{label:{show:!0,position:"left"}}},data:[-120,-132,-101,-134,-190,-230,-210]}]};myChart.setOption(option),window.onresize=myChart.resize;</script>]]></content>
+    <content type="html"><![CDATA[<h1 id="问hexo驱动的博客能展示百度的动态图表吗">问：hexo驱动的博客能展示百度的动态图表吗？</h1> <h1 id="答点击图例可改变数据的呈现内容">答：点击图例可改变数据的呈现内容。</h1> <div id="echarts4121" style="width:81%;height:400px;margin:0 auto"></div> <script type="text/javascript">var myChart=echarts.init(document.getElementById("echarts4121")),option={tooltip:{trigger:"axis",axisPointer:{type:"shadow"}},legend:{data:["利润","支出","收入"]},grid:{left:"3%",right:"4%",bottom:"3%",containLabel:!0},xAxis:[{type:"value"}],yAxis:[{type:"category",axisTick:{show:!1},data:["周一","周二","周三","周四","周五","周六","周日"]}],series:[{name:"利润",type:"bar",itemStyle:{normal:{label:{show:!0,position:"inside"}}},data:[200,170,240,244,200,220,210]},{name:"收入",type:"bar",stack:"总量",itemStyle:{normal:{label:{show:!0}}},data:[320,302,341,374,390,450,420]},{name:"支出",type:"bar",stack:"总量",itemStyle:{normal:{label:{show:!0,position:"left"}}},data:[-120,-132,-101,-134,-190,-230,-210]}]};myChart.setOption(option),window.onresize=myChart.resize;</script>]]></content>
     <summary type="html">
     <![CDATA[hexo驱动的博客能展示百度的动态图表吗？]]>
     
